@@ -7,8 +7,8 @@ Esta aplicación en **Next.js 14** consume datos de JSONPlaceholder para listar 
 
 ### **1️⃣ Clonar el repositorio**
 ```sh
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_PROYECTO>
+git clone https://github.com/Yamil2717/prueba-elsolnec.git
+cd prueba-elsolnec
 ```
 
 ### **2️⃣ Instalar dependencias**
